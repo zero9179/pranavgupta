@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#big-div{
+    border: 2px dotted black;
+    margin: 50px 800px 0px 40px;
+}
+h1{
+    display: inline-block;
+    margin-left: 50px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    
+
+}
+#a-h{
+    margin-right: 50px;
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    color:black;
+}
+.main{
+    margin: 50px;
+    display: flex;
+    justify-content:space-between ;
+}
+.m{
+    margin: 0px;
+}
+#hello{
+    color: gray;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+#pranav{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom:2px ;
+}
+#free{
+    color: gray;
+    margin-bottom:2px ;
+}
+#ui{
+    color: gray;
+    margin-bottom:15px ;
+}
+#hire{
+    background-color: gold;
+    padding: 0px 10px;
+    margin-left: 10px;
+}
+#ass{
+    width: 300px;
+}
+#aboutme{
+    border: 2px dotted black;
+    margin:0px 20px;
+}
+.center{
+    text-align: center;
+}
+#about{
+    font-size: 50px;
+    font-weight: bold;
+}
+#intro{
+    color: gray;
+}
+#about-img{
+    width: 300px;
+    margin:50px 0px 50px 70px ;
+}
+#para{
+    width: 300px;
+    margin: 50px 50px 0px ;
+    font-size: 13px;
+    color: gray;
+}
+#center-div{
+    display: flex;
+    justify-content: space-between;
+}
+#plusbox{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    justify-content:space-around;
+}
+#bold{
+    font-weight: bold;
+    font-size: 20px;
+    color:black
+}
+#plus-first{
+    text-align: center;
+    color:gray
+}
+#plus-second{
+    text-align: center; color:gray
+}
+#plus-third{
+    text-align: center; color:gray
+}
+.about-bottom-div{
+    border: 2px dotted black;
+    margin-top: 10px;
+}
+#q{font-weight: bold;font-size:50px;}
+#my{color: gray;}
+#about-h1{
+    color: indigo;
+    margin: 50px 50px;
+    font-size: 18px;
+}
+#edu-bottom{
+    display: flex;
+    justify-content: space-around;
+    margin:50px 50px 50px 0px ;
+}
+
